@@ -230,6 +230,7 @@ extern RAsmPlugin r_asm_plugin_lh5801;
 extern RAsmPlugin r_asm_plugin_lm32;
 extern RAsmPlugin r_asm_plugin_m68k_cs;
 extern RAsmPlugin r_asm_plugin_m680x_cs;
+extern RAsmPlugin r_asm_plugin_m8c;
 extern RAsmPlugin r_asm_plugin_malbolge;
 extern RAsmPlugin r_asm_plugin_mcore;
 extern RAsmPlugin r_asm_plugin_mcs96;
